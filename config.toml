@@ -1,0 +1,15 @@
+baseURL = "https://ca.shoogle.net/northwest-territories"
+languageCode = "en-US"
+title = "Northwest Territories"
+theme = "ln-base"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "northwest-territories"
