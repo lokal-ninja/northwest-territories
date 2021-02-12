@@ -3,7 +3,7 @@ languageCode = "en-US"
 title = "Northwest Territories"
 theme = "ln-base"
 
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["RSS", "robotsTXT"]
 enableGitInfo = true
 
 [outputs]
@@ -14,3 +14,7 @@ enableGitInfo = true
   site = "Shoogle"
   org = "lokal-ninja"
   repo = "northwest-territories"
+
+[taxonomies]
+  shop = "shops"
+
