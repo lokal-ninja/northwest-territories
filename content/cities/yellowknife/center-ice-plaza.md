@@ -1,5 +1,5 @@
 ---
 title: "Center Ice Plaza"
 url: /yellowknife/center-ice-plaza/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dene Fur Clouds"
 url: /fort-providence/dene-fur-clouds/
-shop: Allgemein
+shop: shop
 ---
