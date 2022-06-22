@@ -1,4 +1,4 @@
-baseURL = "https://ca.shoogle.net/northwest-territories"
+baseURL = "https://ca.shoogle.net/northwest-territories/"
 languageCode = "en-US"
 title = "Northwest Territories"
 theme = "ln-base"
