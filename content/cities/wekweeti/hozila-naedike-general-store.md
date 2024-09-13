@@ -1,5 +1,5 @@
 ---
 title: "Hozila Naedik'e general store"
 url: /wekweeti/hozila-naedike-general-store/
-shop: Dorfladen
+shop: general
 ---
