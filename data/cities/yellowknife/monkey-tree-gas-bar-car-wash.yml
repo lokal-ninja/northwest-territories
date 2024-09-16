@@ -1,11 +1,11 @@
 id: 504606809
-type: way
+type: node
 latitude: 62.44573
 longitude: -114.4104
-postcode: "X1A 2R1"
+postcode: X1A 2R1
 city: Yellowknife
-street: "Range Lake Road"
-housenumber: 481
-phone: "+1-867-669-9612"
+street: Range Lake Road
+housenumber: "481"
+phone: +1-867-669-9612
 opening_hours: ""
 website: ""
