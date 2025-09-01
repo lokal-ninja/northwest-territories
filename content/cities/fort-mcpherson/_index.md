@@ -1,6 +1,6 @@
 ---
 title: Fort McPherson
 url: /fort-mcpherson/
-latitude: 67.44
-longitude: -134.884
+latitude: 67.433
+longitude: -134.882
 ---
