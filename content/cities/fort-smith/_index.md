@@ -1,6 +1,6 @@
 ---
 title: Fort Smith
 url: /fort-smith/
-latitude: 60.003
-longitude: -111.893
+latitude: 60.001
+longitude: -111.872
 ---
